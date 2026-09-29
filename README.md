@@ -2,7 +2,7 @@
 
 # Hi there, I'm Rachida 👋
 
-📍 **United Kingdom** &nbsp; | &nbsp; 🔧 **DevOps Engineer in Training @ CoderCo**
+📍 **United Kingdom** &nbsp; | &nbsp; 🔧 **DevOps Engineer in Training**
 
 **DevOps | Linux | Git | Networking | AWS | Terraform | Docker | CI/CD | Kubernetes**
 
