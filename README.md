@@ -225,21 +225,26 @@ Each script is standalone:
 chmod +x script.sh
 ./script.sh <args>
 ```
+## Concept Quizzes
 
+Short, self-check quizzes on the Bash concepts used in these scripts. Answers are hidden behind toggles — no coding required, just think and reveal.
+
+- [Bash Concepts Quiz — Arrays, IFS, subshells, shift, subcommands](BASH-QUIZ.md)
 ---
 
 ## Repo Layout
 
 ```
 .
-├── README.md
-├── back-up.sh
-├── config-parser.sh
-├── disk-usage.sh
-├── interactive-menu.sh
-├── monitor-dir.sh
-├── search-logs.sh
-├── sort-by-size.sh
-├── count-lines.sh
-└── tool.sh
+├── 📘 README.md
+├── 🧠 BASH-CONCEPTS-QUIZ.md
+├── 💾 back-up.sh
+├── ⚙️  config-parser.sh
+├── 📊 disk-usage.sh
+├── 🎛️  interactive-menu.sh
+├── 👁️  monitor-dir.sh
+├── 🔍 search-logs.sh
+├── 📁 sort-by-size.sh
+├── 🔢 count-lines.sh
+└── 🧰 tool.sh
 ```
