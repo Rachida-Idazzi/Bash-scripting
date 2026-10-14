@@ -1,4 +1,4 @@
-# Bash Scripting Exercises
+# Bash Scripting
 
 This is a hands-on collection of Bash scripts written as progressive exercises — from basic argument parsing up through backups, monitoring, and system reports. Each script is standalone, self-contained, and documented below with what it does, the commands it uses, caveats to watch out for, and a short note on where the pattern shows up in real DevOps work.
 
